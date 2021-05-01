@@ -1,5 +1,5 @@
 # JSReplUtilityApps
-This repository contains JavaScript Utility Apps Replit codes
+This repository contains JavaScript Utility Apps codes
 This JavaScript utilities are hosted on replit.com.
 
 1.EncodeDecodeUtility
